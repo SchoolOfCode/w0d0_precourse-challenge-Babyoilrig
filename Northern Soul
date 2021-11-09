@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@1,900&display=swap" rel="stylesheet">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap" rel="stylesheet">
+  
+  <style>
+     h1 {
+    color: red;
+  }
+    h1 {
+  font-size: 60px;
+}
+    h1 {
+    font-family: 'Azeret Mono', monospace; 
+  }
+  #image {
+width: 100%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+    body {
+  background-color: yellow;
+}
+    .center {
+  text-align: center;
+}
+    .body-text {
+      font-family: 'Rubik', sans-serif;
+      font-size: 20px;
+    }
+    
+</style>
+<head>
+<div id="title">
+<h1 class="center"> Northern Soul</h1>
+</div>
+  </head>
+  
+<div id="img-div">
+<img id="image" src="https://www.modernjivedancer.co.uk/wp-content/uploads/2017/06/Northern-Soul-keep-the-faith.jpg" alt="Northern Soul logo" width="300" height="300">
+  <h2 id="img-caption" class="center"> Orginal Northern Soul Logo </h2>
+</div>
+  <body class= "center body-text">
+<div id="tribute-info">
+<p> Northern soul is a music and dance movement that emerged in Northern England and the English Midlands in the late 1960s from the British mod scene, based on a particular style of black American soul music, especially from the mid-1960s, with a heavy beat and fast tempo (100 bpm and above) or American soul music from northern cities such as Detroit, Chicago and others.</p>
+</div>
+  <div id="main">
+  <p> The northern soul movement generally eschews Motown or Motown-influenced music that has had significant mainstream commercial success. The recordings most prized by enthusiasts of the genre are usually by lesser-known artists, released only in limited numbers, often by American labels such as Vee-Jay Records, Chess Records, Brunswick Records, Ric-Tic, Gordy Records, Golden World Records (Detroit), Mirwood Records (Los Angeles), Shout Records and Okeh. </p>
+  
+  <p> Northern soul is associated with particular dance styles and fashions that grew out of the underground rhythm and soul scene of the late 1960s at venues such as the Twisted Wheel in Manchester. This scene and the associated dances and fashions quickly spread to other UK dancehalls and nightclubs like the Wigan Casino, Blackpool Mecca (the Highland Room), and Golden Torch (Stoke-on-Trent). </p>
+  
+  <p> As the favoured beat became more uptempo and frantic in the early 1970s, northern soul dancing became more athletic, somewhat resembling the later dance styles of disco and break dancing. Featuring spins, flips, karate kicks and backdrops, club dancing styles were often inspired by the stage performances of touring American soul acts such as Little Anthony and the Imperials and Jackie Wilson </p>
+  
+  <p>In the late 1960s and early 1970s, popular northern soul records generally dated from the mid-1960s. This meant that the movement was sustained (and "new" recordings added to playlists) by prominent DJs discovering rare and previously overlooked records. Later on, certain clubs and DJs began to move away from the 1960s Motown sound and began to play newer releases with a more contemporary sound. </p>
+    <a id="tribute-link" href="https://underground-england.com/northern-soul-history/" target="_blank"> Click here for more facts about Northern Soul 
+  </a>
+</div>
+  </body>
+    </html>
